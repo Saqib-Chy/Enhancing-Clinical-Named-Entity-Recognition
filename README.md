@@ -1,3 +1,10 @@
+### Published Paper  
+**[Enhancing Clinical Named Entity Recognition via Fine-Tuned BERT and Dictionary-Infused Retrieval-Augmented Generation](https://www.mdpi.com/2079-9292/14/18/3676)**  
+Published in *Electronics (MDPI), Volume 14, Issue 18, Article 3676, 2025*  
+DOI: [10.3390/electronics14183676](https://doi.org/10.3390/electronics14183676)
+
+
+
 # Enhancing Clinical Named Entity Recognition (DiRAG)
 ### Fine-Tuned BERT + Dictionary-Infused Retrieval-Augmented Generation
 

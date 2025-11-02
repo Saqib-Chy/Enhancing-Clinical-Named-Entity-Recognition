@@ -39,7 +39,7 @@ Standardized Medical Entities
 
 ---
 
-## 🚀 Key Contributions
+## Key Contributions
 - **Fine-tuned BERT** on the MACCROBAT biomedical dataset  
   → Achieved **F1 = 0.708**, outperforming BioBERT and ClinicalBERT.
 - **Dictionary-Infused RAG (DiRAG):**
@@ -50,7 +50,7 @@ Standardized Medical Entities
 
 ---
 
-## 🧪 Experimental Results
+## Experimental Results
 
 | Model | F1 Score |
 |-------|:--------:|
